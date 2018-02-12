@@ -6,9 +6,10 @@
 		Title and Meta Tags
 		=============================================== -->
 		<meta charset="utf-8">
-		<title>Agen | Creative One-Page Portfolio</title>
+		<title>Datasec-IT | Seguridad Informatica</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv="pragma" content="no-cache" />
 
 		<!-- ==============================================
 		Favicons
@@ -67,7 +68,6 @@
 					
 					<!-- ======= LOGO ========-->
 					<a class="navbar-brand scrollto" href="#home">
-						
 						<img class="site-logo" src="assets/images/logo.png" alt="logo"/>
 					</a>
 					
@@ -91,7 +91,7 @@
 							<a href="#pricing" class="scrollto">Normas ISO</a>
 						</li>
 						<li>
-							<a href="#contact" class="scrollto">Contact</a>
+							<a href="#contact" class="scrollto">Contactenos</a>
 						</li>
 					</ul>
 				</div><!--End navbar-collapse -->
@@ -131,62 +131,16 @@
 		</header><!--End header -->
 
 		<!-- ==============================================
-		ABOUT
-		=============================================== -->			
-		<section id="services" class="gray-bg padding-top-bottom">
-		
-			<div class="container">
-			
-				<div class="row">
-				
-					<div class="col-sm-6 col-md-3">
-					
-						<h3><span class="primary h2">1.</span> UI / UX</h3>
-						<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Praesent commodo arcu massa.</p>
-					
-					</div>
-				
-					<div class="col-sm-6 col-md-3">
-					
-						<h3><span class="primary h2">2.</span> Design</h3>
-						<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Praesent commodo arcu massa.</p>
-					
-					</div>
-					
-					<div class="col-sm-6 col-md-3">
-					
-						<h3><span class="primary h2">3.</span> Development</h3>
-						<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Praesent commodo arcu massa.</p>
-					
-					</div>
-					
-					<div class="col-sm-6 col-md-3">
-					
-						<h3><span class="primary h2">4.</span> Support</h3>
-						<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Praesent commodo arcu massa.</p>
-					
-					</div>
-					
-				</div><!--End row-->
-				
-			</div><!--End container -->
-			
-		</section><!--End Call to Action -->
-		
-		<!-- ==============================================
 		PORTFOLIO
 		=============================================== -->
 		<section id="portfolio" class="white-bg">
-		
-			<div class="padding-top">
-			
-				<div class="container">
-					
+			<div class="padding-top">			
+				<div class="container">					
 					<h2 class="section-title">Our <span class="primary">Work</span></h2>
 					<p class="section-description">Some examples of Awesomeness</p>
 					
 					<!--==== Portfolio Filters ====-->
-					<div id="filter-works">
+					<!--<div id="filter-works">
 						<ul>
 							<li class="active">
 								<a href="#" data-filter="*">All</a>
@@ -201,7 +155,8 @@
 								<a href="#" data-filter=".illustration">Illustration</a>
 							</li>
 						</ul>
-					</div><!--End portfolio filters -->
+					</div>-->
+					<!--End portfolio filters -->
 					
 				</div>
 				
@@ -209,56 +164,35 @@
 		
 			<!--==== Project Preview ====-->
 			<div id="project-preview" class="gray-bg">
-			
 				<div class="container">
-					
 					<span class="close-preview">&times;</span>
-				
 					<div class="row">
-					
 						<div class="col-md-10 col-md-offset-1 text-left">
-						
 							<div id="project-slider" class="flexslider"></div>
-							
 							<h2 id="project-title"> </h2>
-							
 							<div id="project-content" class="text-left"></div>
-							
 						</div>
-					
 					</div>
-					
 				</div>
-				
 			</div><!--Project Preview -->
 		
 			<div class="white-bg padding-bottom">
-			
 				<div class="container">
-				
 					<div class="masonry-wrapper">
-					
 						<div id="projects-container">
-						
-							<!-- ==============================================
-							SINGLE PROJECT ITEM
-							=============================================== -->	
-							<article class="project-item illustration">
-								
-								<img class="img-responsive project-image" src="assets/images/projects/project-1.jpg"  alt=""><!--Project thumb -->
-								
+							
+							<article class="project-item">
 								<div class="hover-mask">
-									<h2 class="project-title">Noisy Water Logo</h2><!--Project Title -->
-									<p>#illustrations, #logos</p><!--Project Subtitle -->
+									<h2 class="project-title">Consultoria / Cumplimiento</h2><!--Project Title -->
+									<p>270001:2013 SGSI</p>
+									<p>22301:2012 SGPN</p>
+									<p>PCI-DS:2012 SGPN</p>
+									<p>Ley 1581:2012 SGPN</p>
 									<i class="fa fa-arrow-right"></i>
 								</div>
 								
-								<!--==== Project Preview HTML ====-->
-								
 								<div class="sr-only project-description" data-images="assets/images/slide-1.png,assets/images/slide-2.png,assets/images/slide-3.png">
-								
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
-									
 									<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
 									<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
 									<p class="text-right"><a class="btn" href="#external-link"><i class="fa fa-arrow-right"></i>Visit Website</a></p>
@@ -266,42 +200,16 @@
 								</div>
 								
 							</article>
-							<!-- ==============================================
-							END PROJECT ITEM
-							=============================================== -->						
 							
-							<article class="project-item identity logo">
-								
-								<img class="img-responsive project-image" src="assets/images/projects/project-2.jpg"  alt=""><!--Project thumb -->
-								
+							<article class="project-item">
 								<div class="hover-mask">
-									<h2 class="project-title">Alp Prom Website</h2><!--Project Title -->
-									<p>#web, #design</p><!--Project Subtitle -->
+									<h2 class="project-title">Pruebas Tecnicas</h2><!--Project Title -->
+									<p>Hacking etico</p>
+									<p>Analisis de vulnerabilidades</p>
+									<p>Pruebas de seguridad para aplicaciones</p>
+									<p>Pruebas de seguridad para servicios WEB</p>
+									<p>Pruebas de ingenieria social</p>
 									<i class="fa fa-arrow-right"></i>
-								</div>
-								
-								<!--==== Project Preview HTML ====-->
-								
-								<div class="sr-only project-description" data-images="assets/images/slide-1.png,assets/images/slide-2.png,assets/images/slide-3.png" >
-								
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
-									
-									<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
-									<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
-									<p class="text-right"><a class="btn" href="#external-link"><i class="fa fa-arrow-right"></i>Visit Website</a></p>
-								
-								</div>
-								
-							</article><!--End Project Item -->
-
-							<article class="project-item illustration">
-								
-								<img class="img-responsive project-image" src="assets/images/projects/project-3.jpg"  alt=""><!--Project thumb -->
-								
-								<div class="hover-mask">
-									<h2 class="project-title">Weekend Warrior</h2><!--Project Title -->
-									<p>#apps, #web</p><!--Project Subtitle -->
-									<i class="fa fa-play"></i>
 								</div>
 								
 								<!--==== Project Preview HTML ====-->
@@ -317,22 +225,18 @@
 								
 							</article><!--End Project Item -->
 
-							<article class="project-item identity">
-								
-								<img class="img-responsive project-image" src="assets/images/projects/project-4.jpg"  alt=""><!--Project thumb -->
-								
+							<article class="project-item">
 								<div class="hover-mask">
-									<h2 class="project-title">Metropolis Brochure</h2><!--Project Title -->
-									<p>#identity, #design</p><!--Project Subtitle -->
+									<h2 class="project-title">Servicios de personal</h2><!--Project Title -->
+									<p>Outsourcing de personal de seguridad</p>
+									<p>Informatica</p>
 									<i class="fa fa-arrow-right"></i>
 								</div>
 								
 								<!--==== Project Preview HTML ====-->
 								
 								<div class="sr-only project-description" data-images="assets/images/slide-1.png,assets/images/slide-2.png,assets/images/slide-3.png" >
-								
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
-									
 									<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
 									<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
 									<p class="text-right"><a class="btn" href="#external-link"><i class="fa fa-arrow-right"></i>Visit Website</a></p>
@@ -341,110 +245,44 @@
 								
 							</article><!--End Project Item -->
 
-
-							<article class="project-item logo">
-								
-								<img class="img-responsive project-image" src="assets/images/projects/project-5.jpg"  alt=""><!--Project thumb -->
-								
+							<article class="project-item">
 								<div class="hover-mask">
-									<h2 class="project-title">Tap Tap Logo</h2><!--Project Title -->
-									<p>#logos, #identity</p><!--Project Subtitle -->
+									<h2 class="project-title">Capacitaciones</h2><!--Project Title -->
+									<p>Sensibilizaciones en seguridad de la informacion</p>
+									<p>Charlas de seguridad de la informacion</p>
 									<i class="fa fa-arrow-right"></i>
 								</div>
 								
 								<!--==== Project Preview HTML ====-->
 								
 								<div class="sr-only project-description" data-images="assets/images/slide-1.png,assets/images/slide-2.png,assets/images/slide-3.png" >
-								
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
-									
 									<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
 									<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
-								
 								</div>
-								
-							</article><!--End Project Item -->
-							
-							<article class="project-item identity logo">
-								
-								<img class="img-responsive project-image" src="assets/images/projects/project-6.jpg"  alt=""><!--Project thumb -->
-								
+							</article>
+							<article class="project-item">
 								<div class="hover-mask">
-									<h2 class="project-title">Personal Website</h2><!--Project Title -->
-									<p>#web, #design</p><!--Project Subtitle -->
-									<i class="fa fa-play"></i>
-								</div>
-								
-								<!--==== Project Preview HTML ====-->
-								
-								<div class="sr-only project-description" data-video='<iframe width="854" height="480" src="https://www.youtube.com/embed/CelVlRVcp20" frameborder="0" allowfullscreen></iframe>' >
-								
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
-									
-									<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
-									<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
-									<p class="text-right"><a class="btn" href="#external-link"><i class="fa fa-arrow-right"></i>Visit Website</a></p>
-								
-								</div>
-								
-							</article><!--End Project Item -->
-
-							<article class="project-item illustration identity">
-								
-								<img class="img-responsive project-image" src="assets/images/projects/project-7.jpg"  alt=""><!--Project thumb -->
-								
-								<div class="hover-mask">
-									<h2 class="project-title">Olp Design</h2><!--Project Title -->
-									<p>#apps, #design</p><!--Project Subtitle -->
-									<i class="fa fa-play"></i>
-								</div>
-								
-								<!--==== Project Preview HTML ====-->
-								
-								<div class="sr-only project-description" data-video='<iframe src="https://player.vimeo.com/video/57005606" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'>
-								
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
-									
-									<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
-									<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
-									<p class="text-right"><a class="btn" href="#external-link"><i class="fa fa-arrow-right"></i>Visit Website</a></p>
-								
-								</div>
-								
-							</article><!--End Project Item -->	
-							
-							<article class="project-item illustration identity">
-								
-								<img class="img-responsive project-image" src="assets/images/projects/project-8.jpg"  alt=""><!--Project thumb -->
-								
-								<div class="hover-mask">
-									<h2 class="project-title">Wedding Photobook</h2><!--Project Title -->
-									<p>#illustration</p><!--Project Subtitle -->
+									<h2 class="project-title">Software</h2>
+									<p>Desarrollo de aplicaciones de software</p>
+									<p>Arquitectura Empresarial de Software</p>
+									<p>Marketing digital</p>
 									<i class="fa fa-arrow-right"></i>
 								</div>
 								
 								<!--==== Project Preview HTML ====-->
 								
-								<div class="sr-only project-description" data-images="assets/images/slide-1.png,assets/images/slide-2.png,assets/images/slide-3.png">
-								
+								<div class="sr-only project-description" data-images="assets/images/slide-1.png,assets/images/slide-2.png,assets/images/slide-3.png" >
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
-									
 									<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
 									<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
-									<p class="text-right"><a class="btn" href="#external-link"><i class="fa fa-arrow-right"></i>Visit Website</a></p>
-								
 								</div>
-								
-							</article><!--End Project Item -->	
-							
+							</article>
+							<!--End Project Item -->
 						</div><!-- End projects --> 
-						
 					</div><!-- End container --> 
-					
 				</div>
-				
 			</div>
-		
 		</section>
 		
 		<!-- ==============================================
@@ -497,22 +335,20 @@
 		ABOUT
 		=============================================== -->
 		<section id="about" class="white-bg padding-top-bottom">
-		
 			<div class="container features">
 				
-				<h2 class="section-title">Why Choose <span class="primary">Agen</span>?</h2>
-				<p class="section-description">Explore Agen's Great Features. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+				<h2 class="section-title">Porque escoger <span class="primary">Datasec-IT</span>?</h2>
+				<p class="section-description">
+					Somos una empresa con el mejor equipo de profesionales en temas de seguridad de la información, ciberseguridad, GRC, continuidad del negocio y auditoria, con el objeto de apoyar el crecimiento de las empresas a partir del aseguramiento de la información.
+					<br>
+					<i style="margin-top:20px;">"Nuestra labor es identificar, evaluar y mitigar los riesgos a los cuales está expuesta la información de su empresa."</i>
+				</p>
 				
 				<div class="row">
-				
-					<div class="col-md-6">
-						
+					<div class="col-md-6">						
 						<img class="img-responsive" src="assets/images/iPhone.png" alt=""/>
-						
 					</div>
-					
 					<div class="col-md-5">
-						
 						<div class="media">
 							<div class="icon pull-left">
 								<i class="media-object icon-1 fa fa-heart-o"></i>
@@ -520,8 +356,8 @@
 							</div>
 							
 							<div class="media-body">
-								<h4>Lovely Colors</h4>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+								<h4>Confidencialidad</h4>
+								<p>La informacion es el activo mas grande de las empresas, por eso la protejemos y resguardamos de acuerdo a las mejores practicas.</p>
 							</div>
 						</div>
 						
@@ -532,8 +368,8 @@
 							</div>
 							
 							<div class="media-body">
-								<h4>Great Options</h4>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+								<h4>Calidad</h4>
+								<p>Garantizamos entregar un producto con calidad, cumpliendo con los requerimientos y necesidades de nuestros clientes.</p>
 							</div>
 						</div>
 						
@@ -544,11 +380,22 @@
 							</div>
 							
 							<div class="media-body">
-								<h4>5-star Support</h4>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+								<h4>Trabajo en equipo</h4>
+								<p>Buscamos el logro de los objetivos organizacionales por ello trabajar de la mano de los clientes internos y externos es nuestra premisa.</p>
 							</div>
 						</div>
 						
+						<div class="media">
+							<div class="icon pull-left">
+								<i class="media-object icon-1 fa fa-star-o"></i>
+								<i class="media-object icon-2 fa fa-star"></i>
+							</div>
+							
+							<div class="media-body">
+								<h4>Compromiso</h4>
+								<p>Trabajamos con profesionalismo, empeño, responsabilidad y sentido de pertenencia para cumplir de forma eficaz y eficiente los compromisos adquiridos.</p>
+							</div>
+						</div>
 					</div>
 					
 				</div>
@@ -610,7 +457,7 @@
 		
 			<div class="container">
 				
-				<h2 class="section-title">Meet the <span class="primary">Team</span></h2>
+				<h2 class="section-title">Conoce el <span class="primary">Equipo</span></h2>
 				<p class="section-description">We are a small team with great skills. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
 						
 				<div class="row">
@@ -936,6 +783,7 @@
 		MODAL
 		=============================================== -->	
 		
+		<!--
 		<div class="modal fade autopopup" data-delay="15000">
 			<div class="modal-dialog">
 				<div class="modal-content">
@@ -956,7 +804,7 @@
 								<div class=" controls">
 									<input type="email" placeholder="Enter Your email" class="form-control">
 								</div>
-							</div><!-- End email input -->
+							</div>
 
 							<p><button name="submit" type="submit" class="btn"><i class="fa fa-envelope"></i>Subscribe</button></p>
 
@@ -970,12 +818,14 @@
 
 							</div>
 
-						</form><!-- End newsletter-form -->
+						</form>
 
 					</div>
-				</div><!-- /.modal-content -->
-			</div><!-- /.modal-dialog -->
-		</div><!-- /.modal -->
+				</div>
+			</div>
+		</div>
+		-->
+		<!-- /.modal -->
 
 		<!-- ==============================================
 		SCRIPTS

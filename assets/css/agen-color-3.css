@@ -21,7 +21,7 @@ a:focus,
 .btn.white.transparent:hover,
 .btn.white.transparent:active
 {
-	color:#00AB66;
+	color:rgb(0, 88, 171);
 }
 
 #page-loader span,
@@ -42,12 +42,12 @@ a:focus,
 .btn.transparent:active,
 .btn.white:hover,
 .btn.white:active{
-    background:#00AB66;
+    background:rgb(0, 88, 171);
 }
 
 .features .icon {
-    border-bottom-color:#00AB66;
-    border-right-color:#00AB66;
+    border-bottom-color:rgb(0, 88, 171);
+    border-right-color:rgb(0, 88, 171);
 }
 
 #filter-works ul li.active a,
@@ -55,5 +55,5 @@ a:focus,
 #project-slider .flex-control-paging li a,
 .btn.transparent,
 .btn.transparent:focus{
-    border-color:#00AB66;
+    border-color:rgb(0, 88, 171);
 }
