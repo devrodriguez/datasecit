@@ -1,5 +1,5 @@
 <?php 
-$emailTo = 'mail@example.com';
+$emailTo = 'john.rodriguez.25@outlook.com';
 $siteTitle = 'Your Site Title';
 
 error_reporting(E_ALL ^ E_NOTICE); // hide all basic notices from PHP
@@ -57,6 +57,7 @@ if(isset($_POST['submitted'])) {
 		
         // set our boolean completion value to TRUE
 		$emailSent = true;
+		echo $emailSent;
 	}
 }
 ?>

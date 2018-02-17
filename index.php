@@ -68,6 +68,7 @@
 					
 					<!-- ======= LOGO ========-->
 					<a class="navbar-brand scrollto" href="#home">
+						<!--<h2 style="font-weight:bold;color:#fff;">DATASEC-<span class="primary">IT</span></h3>-->
 						<img class="site-logo" src="assets/images/logo.png" alt="logo"/>
 					</a>
 					
@@ -76,7 +77,7 @@
 				<div id="site-nav" class="navbar-collapse collapse">
 					<ul class="nav navbar-nav navbar-right">
 						<li>
-							<a href="#portfolio" class="scrollto">Portfolio</a>
+							<a href="#portfolio" class="scrollto">Portafolio</a>
 						</li>
 						<li>
 							<a href="#about" class="scrollto">Nosotros</a>
@@ -103,7 +104,7 @@
 		<!-- ==============================================
 		HEADER
 		=============================================== -->
-		<header id="home" class="parallax-bg overlay-dark" data-parallax="scroll" data-image-src="assets/images/header.png">
+		<header id="home" class="parallax-bg overlay-dark" data-parallax="scroll" data-image-src="assets/images/header.jpg">
 			
 			<div class="header-content">
 				
@@ -116,7 +117,7 @@
 							
 							<h3>Nos ocupamos de la seguridad informatica para su proyecto o negocio.</h3>
 							
-							<a class="btn white transparent scrollto" href="#portfolio">Portfolio</a>
+							<a class="btn white transparent scrollto" href="#portfolio">Portafolio</a>
 							
 						</div>
 					
@@ -135,9 +136,9 @@
 		=============================================== -->
 		<section id="portfolio" class="white-bg">
 			<div class="padding-top">			
-				<div class="container">					
-					<h2 class="section-title">Our <span class="primary">Work</span></h2>
-					<p class="section-description">Some examples of Awesomeness</p>
+				<div  class="container">					
+					<h2 class="section-title">Nuestros <span class="primary">Servicios</span></h2>
+					<p id="portfolio-desc" class="section-description">Tenemos servicios para garantizar la seguridad de su proyecto</p>
 					
 					<!--==== Portfolio Filters ====-->
 					<!--<div id="filter-works">
@@ -184,7 +185,7 @@
 							<article class="project-item">
 								<div class="hover-mask">
 									<h2 class="project-title">Consultoria / Cumplimiento</h2><!--Project Title -->
-									<p>270001:2013 SGSI</p>
+									<p>27001:2013 SGSI</p>
 									<p>22301:2012 SGPN</p>
 									<p>PCI-DS:2012 SGPN</p>
 									<p>Ley 1581:2012 SGPN</p>
@@ -215,9 +216,7 @@
 								<!--==== Project Preview HTML ====-->
 								
 								<div class="sr-only project-description" data-video='<iframe width="854" height="480" src="https://www.youtube.com/embed/CelVlRVcp20" frameborder="0" allowfullscreen></iframe>'>
-								
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sapien risus, blandit at fringilla ac, varius sed dolor. Donec augue lacus, vulputate sed consectetur facilisis, interdum pharetra ligula. Nulla suscipit erat nibh, ut porttitor nisl dapibus eu.</p>
-									
 									<p>Phasellus porta eros vel lacus euismod consequat. Phasellus eleifend, nibh non feugiat hendrerit, lacus enim adipiscing eros, a pharetra erat neque eget est. Quisque vitae aliquet urna. Integer suscipit lectus eu enim porttitor fringilla. Ut blandit, urna in auctor euismod, arcu eros pharetra metus, a porta purus libero a nibh.</p>
 									<p>Nam eget urna pellentesque nisl ultrices dapibus. Mauris accumsan vehicula nisl, sed tempus mauris facilisis eu. Donec a iaculis nisi, quis malesuada justo. Pellentesque ut enim sit amet ipsum dignissim egestas. Morbi tincidunt rhoncus urna eget placerat.</p>
 									
@@ -404,6 +403,7 @@
 			
 		</section>
 		
+		<!--
 		<div class="gray-bg padding-top">
 		
 			<div class="container text-center">
@@ -450,6 +450,8 @@
 			</div>
 			
 		</section>
+		-->
+
 		<!-- ==============================================
 		TEAM
 		=============================================== -->
@@ -458,16 +460,12 @@
 			<div class="container">
 				
 				<h2 class="section-title">Conoce el <span class="primary">Equipo</span></h2>
-				<p class="section-description">We are a small team with great skills. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+				<p class="section-description">Somos un pequeño equipo con grandes habilidades.</p>
 						
 				<div class="row">
-				
 					<div class="col-md-3 col-sm-6 team-member">
-					
-						<div class="member-thumb">
-						
+						<div class="member-thumb">						
 							<img class="img-responsive img-center" src="assets/images/member-1.jpg" alt="" />
-							
 						</div>
 						
 						<ul class="member-socials">
@@ -478,9 +476,9 @@
 						</ul>
 						
 						<div class="member-details">
-							<h3>John Doe</h3>
-							<h4 class="primary">Lead Designer</h4>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+							<h3>Leonardo Carrillo</h3>
+							<h4 class="primary">Seguridad</h4>
+							<p>Especialista en seguridad de la informacion.</p>
 						</div>
 						
 					</div>
@@ -584,8 +582,8 @@
 		
 			<div class="container">
 			
-				<h2 class="section-title">Our <span class="primary">Prices</span></h2>
-				<p class="section-description">We offer great plans. Find the one that suits your needs.</p>
+				<h2 class="section-title">Paquetes de <span class="primary">Seguridad</span></h2>
+				<p class="section-description">Diseñamos paquetes de seguridad de acuerdo a las necesidades de su negocio.</p>
 				
 				<div class="row pricing">
 				
@@ -596,8 +594,6 @@
 							<div class="item">
 							
 								<h2>Basic</h2>
-								<p class="price">$13</p>
-								
 								<p>Single License</p>
 								<p>One Website</p>
 								<p>Basic Support</p>
@@ -613,7 +609,6 @@
 							<div class="item featured">
 							
 								<h2>Pro</h2>
-								<p class="price">$39</p>
 								
 								<p>Multiple Licenses</p>
 								<p>Unlimited Websites</p>
@@ -630,7 +625,6 @@
 							<div class="item">
 							
 								<h2>Premium</h2>
-								<p class="price">$399</p>
 								
 								<p>Extended License</p>
 								<p>Unlimited Websites</p>
@@ -658,7 +652,7 @@
 			<div class="container">
 			
 				<h2 class="section-title"><span class="primary">Contact</span> Us</h2>
-				<p class="section-description">Are you ready to start your project? Give us a call or drop us a line.</p>
+				<p class="section-description">Llamanos o dejanos tus datos.</p>
 				
 				<div class="row">
 				
@@ -667,7 +661,7 @@
 						<div class="contact-item">
 						
 							
-							<h2><span class="icon"><i class="fa fa-phone fa-fw"></i></span> Phone</h2>
+							<h2><span class="icon"><i class="fa fa-phone fa-fw"></i></span> Telefono</h2>
 							<p>+01 234-56789<br/>+01 234-56789</p>
 						
 						</div>
@@ -675,14 +669,14 @@
 						<div class="contact-item">
 						
 							
-							<h2><span class="icon"><i class="fa fa-envelope-o fa-fw"></i></span> Email</h2>
+							<h2><span class="icon"><i class="fa fa-envelope-o fa-fw"></i></span> Correo</h2>
 							<p><a href="mailto:mail@example.com" >mail@example.com</a></p>
 							
 						</div>
 						
 						<div class="contact-item">
 						
-							<h2><span class="icon"><i class="fa fa-map-marker fa-fw"></i></span> Location</h2>
+							<h2><span class="icon"><i class="fa fa-map-marker fa-fw"></i></span> Ubicacion</h2>
 							<p>250 W Broadway <br/>NY , 10013</p>
 							
 						</div>
@@ -694,27 +688,29 @@
 					<form id="contact-form" class="col-sm-8 col-lg-7 col-lg-offset-1" action="contact.php" method="post" novalidate>
 						
 						<div class="form-group">
-						  <label class="control-label" for="contact-name">Name</label>
+						  <label class="control-label" for="contact-name">Nombre</label>
 						  <div class="controls">
-							<input id="contact-name" name="contactName" placeholder="Your name" class="form-control requiredField" type="text" data-error-empty="Please enter your name">
+							<input id="contact-name" name="contactName" placeholder="Tu nombre" class="form-control requiredField" type="text" data-error-empty="Por favor ingresa tu nombre">
 						  </div>
 						</div><!-- End name input -->
 						
 						<div class="form-group">
-						  <label class="control-label" for="contact-mail">Email</label>
+						  <label class="control-label" for="contact-mail">Correo</label>
 						  <div class=" controls">
-							<input id="contact-mail" name="email" placeholder="Your email" class="form-control requiredField" type="email" data-error-empty="Please enter your email" data-error-invalid="Invalid email address">
+							<input id="contact-mail" name="email" placeholder="Tu correo" class="form-control requiredField" type="email" data-error-empty="Por favor ingresa tu correo" data-error-invalid="Direccion de correo invalida">
 						  </div>
 						</div><!-- End email input -->
 						
 						<div class="form-group">
-						  <label class="control-label" for="contact-message">Message</label>
+						  <label class="control-label" for="contact-message">Mensaje</label>
 							<div class="controls">
-								<textarea id="contact-message" name="comments"  placeholder="Your message" class="form-control requiredField" rows="8" data-error-empty="Please enter your message"></textarea>
+								<textarea id="contact-message" name="comments"  placeholder="Tu mensaje" class="form-control requiredField" rows="8" data-error-empty="Por favor ingrese su mensaje"></textarea>
 							</div>
 						</div><!-- End textarea -->
 						
-						<div class="text-right"><button name="submit" type="submit" class="btn" data-error-message="Error!" data-sending-message="Sending..." data-ok-message="Message Sent"><i class="fa fa-paper-plane"></i>Send Message</button></div>
+						<div class="text-right">
+							<button name="submit" type="submit" class="btn" data-error-message="Error!" data-sending-message="Enviando..." data-ok-message="Mensaje enviado"><i class="fa fa-paper-plane"></i>Enviar Mensaje</button>
+						</div>
 						<input type="hidden" name="submitted" id="submitted" value="true" />
 						
 					</form><!-- End contact-form -->

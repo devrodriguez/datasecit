@@ -195,7 +195,7 @@ $(document).ready(function() {
 		
 		$('#project-preview').addClass('open');
 		
-		$('html, body').stop().animate({scrollTop: $('#filter-works').offset().top+50}, 600);
+		$('html, body').stop().animate({scrollTop: $('#portfolio-desc').offset().top+50}, 600);
 		$('#project-preview').slideDown(400);
 		
 		setTimeout(function(){
@@ -228,7 +228,7 @@ $(document).ready(function() {
 	
 		$('#project-preview').removeClass('open');
 		$('#project-preview .container').animate({'opacity':0},300);
-		$('html, body').stop().animate({scrollTop: $('#filter-works').offset().top-110}, 600);
+		$('html, body').stop().animate({scrollTop: $('#portfolio-desc').offset().top-110}, 600);
 		setTimeout(function(){
 			$('#project-preview').slideUp();
 				
