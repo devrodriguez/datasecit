@@ -109,6 +109,7 @@ $(document).ready(function() {
 	/*============================================
 	Filter Projects
 	==============================================*/
+	/*
 	$('#filter-works a').click(function(e){
 		e.preventDefault();
 		
@@ -138,6 +139,7 @@ $(document).ready(function() {
 			$(window).trigger('resize');
 		},500);
 	});
+	*/
 	
 	/*============================================
 	Project Preview

@@ -47,7 +47,6 @@
 		
 		
 	</head>
-  
 	<body data-spy="scroll" data-target="#main-nav" data-offset="300">
 	
 		<!--=== PAGE PRELOADER ===-->
@@ -105,29 +104,19 @@
 		HEADER
 		=============================================== -->
 		<header id="home" class="parallax-bg overlay-dark" data-parallax="scroll" data-image-src="assets/images/header.jpg">
-			
 			<div class="header-content">
-				
 				<div class="container">
-				
 					<div class="row">
-					
 						<div class="col-md-6">
 							<h1>Seguridad Informatica</h1>
-							
 							<h3>Nos ocupamos de la seguridad informatica para su proyecto o negocio.</h3>
-							
 							<a class="btn white transparent scrollto" href="#portfolio">Portafolio</a>
-							
 						</div>
-					
 					</div>
-				
 				</div>
-				
 			</div>
 			
-			<a class="scroll-button scrollto" href="#services"><i class="fa fa-long-arrow-down"></i></a>
+			<!--<a class="scroll-button scrollto" href="#services"><i class="fa fa-arrow-right fa-rotate-90"></i></a>-->
 			
 		</header><!--End header -->
 
@@ -181,7 +170,7 @@
 				<div class="container">
 					<div class="masonry-wrapper">
 						<div id="projects-container">
-							
+
 							<article class="project-item">
 								<div class="hover-mask">
 									<h2 class="project-title">Consultoria / Cumplimiento</h2><!--Project Title -->
@@ -287,47 +276,31 @@
 		<!-- ==============================================
 		COUNTERS
 		=============================================== -->
-		<section class="parallax-bg light-typo padding-top-bottom overlay-color" data-parallax="scroll" data-image-src="assets/images/about.jpg">
-		
+		<section class="parallax-bg light-typo padding-top-bottom overlay-color" data-parallax="scroll" data-image-src="assets/images/header.jpg">
 			<div class="container">
-			
 				<div class="row counters">
-				
 					<div class="col-md-3 col-sm-6 text-center">
-					
 						<i class="fa fa-angellist"></i>
 						<h3 class="counter" data-to="2" data-speed="1000">0</h3>
 						<p>Years in Business</p>
-					
 					</div>
-				
 					<div class="col-md-3 col-sm-6 text-center">
-					
 						<i class="fa fa-android"></i>
 						<h3 class="counter" data-to="120" data-speed="1500">0</h3>
 						<p>Projects Delivered</p>
-					
 					</div>
-					
 					<div class="col-md-3 col-sm-6 text-center">
-					
 						<i class="fa fa-users"></i>
 						<h3 class="counter" data-to="4900" data-speed="2000">0</h3>
 						<p>Satisfied Customers</p>
-					
 					</div>
-					
 					<div class="col-md-3 col-sm-6 text-center">
-					
 						<i class="fa fa-clock-o"></i>
 						<h3 class="counter" data-to="400" data-speed="400000">0</h3>
 						<p>Seconds on this site!</p>
-					
 					</div>
 				</div>
-			
 			</div>
-			
 		</section>
 		
 		<!-- ==============================================
@@ -335,14 +308,12 @@
 		=============================================== -->
 		<section id="about" class="white-bg padding-top-bottom">
 			<div class="container features">
-				
 				<h2 class="section-title">Porque escoger <span class="primary">Datasec-IT</span>?</h2>
 				<p class="section-description">
 					Somos una empresa con el mejor equipo de profesionales en temas de seguridad de la información, ciberseguridad, GRC, continuidad del negocio y auditoria, con el objeto de apoyar el crecimiento de las empresas a partir del aseguramiento de la información.
 					<br>
 					<i style="margin-top:20px;">"Nuestra labor es identificar, evaluar y mitigar los riesgos a los cuales está expuesta la información de su empresa."</i>
 				</p>
-				
 				<div class="row">
 					<div class="col-md-6">						
 						<img class="img-responsive" src="assets/images/iPhone.png" alt=""/>
@@ -350,57 +321,47 @@
 					<div class="col-md-5">
 						<div class="media">
 							<div class="icon pull-left">
-								<i class="media-object icon-1 fa fa-heart-o"></i>
-								<i class="media-object icon-2 fa fa-heart"></i>
+								<i class="media-object icon-1 fa fa-check"></i>
+								<i class="media-object icon-2 fa fa-check"></i>
 							</div>
-							
 							<div class="media-body">
 								<h4>Confidencialidad</h4>
 								<p>La informacion es el activo mas grande de las empresas, por eso la protejemos y resguardamos de acuerdo a las mejores practicas.</p>
 							</div>
 						</div>
-						
 						<div class="media">
 							<div class="icon pull-left">
-								<i class="media-object icon-1 fa fa-cog"></i>
-								<i class="media-object icon-2 fa fa-cogs"></i>
+								<i class="media-object icon-1 fa fa-check"></i>
+								<i class="media-object icon-2 fa fa-check"></i>
 							</div>
-							
 							<div class="media-body">
 								<h4>Calidad</h4>
 								<p>Garantizamos entregar un producto con calidad, cumpliendo con los requerimientos y necesidades de nuestros clientes.</p>
 							</div>
 						</div>
-						
 						<div class="media">
 							<div class="icon pull-left">
-								<i class="media-object icon-1 fa fa-star-o"></i>
-								<i class="media-object icon-2 fa fa-star"></i>
+								<i class="media-object icon-1 fa fa-check"></i>
+								<i class="media-object icon-2 fa fa-check"></i>
 							</div>
-							
 							<div class="media-body">
 								<h4>Trabajo en equipo</h4>
 								<p>Buscamos el logro de los objetivos organizacionales por ello trabajar de la mano de los clientes internos y externos es nuestra premisa.</p>
 							</div>
 						</div>
-						
 						<div class="media">
 							<div class="icon pull-left">
-								<i class="media-object icon-1 fa fa-star-o"></i>
-								<i class="media-object icon-2 fa fa-star"></i>
+								<i class="media-object icon-1 fa fa-check"></i>
+								<i class="media-object icon-2 fa fa-check"></i>
 							</div>
-							
 							<div class="media-body">
 								<h4>Compromiso</h4>
 								<p>Trabajamos con profesionalismo, empeño, responsabilidad y sentido de pertenencia para cumplir de forma eficaz y eficiente los compromisos adquiridos.</p>
 							</div>
 						</div>
 					</div>
-					
 				</div>
-			
 			</div>
-			
 		</section>
 		
 		<!--
@@ -651,7 +612,7 @@
 		
 			<div class="container">
 			
-				<h2 class="section-title"><span class="primary">Contact</span> Us</h2>
+				<h2 class="section-title"><span class="primary">Contactenos</span></h2>
 				<p class="section-description">Llamanos o dejanos tus datos.</p>
 				
 				<div class="row">
