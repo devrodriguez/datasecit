@@ -27,7 +27,7 @@
 		<link rel="stylesheet" href="assets/css/flexslider.css">
 		<link rel="stylesheet" href="assets/css/lity.css">
 		<link rel="stylesheet" href="assets/css/styles.css">
-		<link rel="stylesheet" href="assets/css/agen-color-3.css">
+		<link rel="stylesheet" href="assets/css/page.css">
 		
 		<!-- ==============================================
 		Fonts
@@ -88,7 +88,7 @@
 							<a href="#testimonials" class="scrollto">Clientes</a>
 						</li>
 						<li>
-							<a href="#pricing" class="scrollto">Normas ISO</a>
+							<a href="#pricing" class="scrollto">Paquetes</a>
 						</li>
 						<li>
 							<a href="#contact" class="scrollto">Contactenos</a>
@@ -109,7 +109,7 @@
 					<div class="row">
 						<div class="col-md-6">
 							<h1>Seguridad Informatica</h1>
-							<h3>Nos ocupamos de la seguridad informatica para su proyecto o negocio.</h3>
+							<h3>Nos ocupamos de la seguridad informatica de su proyecto o negocio.</h3>
 							<a class="btn white transparent scrollto" href="#portfolio">Portafolio</a>
 						</div>
 					</div>
@@ -681,11 +681,12 @@
 			</div>
 			
 		</section>
-		
+		<!--
 		<div id="gmar-wrapper">
 			<div id='gmap'></div>
 			<a id="map-address" target="_blank" href="http://goo.gl/maps/0m7WQ">250 W Broadway, New York</a>
 		</div>
+		-->
 		
 		<!-- ==============================================
 		FOOTER
@@ -730,7 +731,7 @@
 					<li><a href="#link"><i class="fa fa-dribbble fa-fw"></i></a></li>
 					<li><a href="#link"><i class="fa fa-linkedin fa-fw"></i></a></li>
 				</ul>
-				<p>&copy;2016 Agen Theme by <a href="#" target="_blank">Qthemes</a></p>
+				<p>&copy;2018 Datasec-IT</p>
 				
 			</div>
 			

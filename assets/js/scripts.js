@@ -255,11 +255,10 @@ $(document).ready(function() {
 	/*============================================
 	Google Map
 	==============================================*/
-	
+	/*
 	$(window).load(function(){
 	
 		if($('#gmap').length){
-		
 		
 			var map;
 			var mapstyles = [ { "stylers": [ { "saturation": -100 } ] } ];
@@ -308,7 +307,8 @@ $(document).ready(function() {
 			
 		}
 		
-	});		
+	});
+	*/	
 	
 	/*============================================
 	Placeholder Detection
