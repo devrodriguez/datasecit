@@ -68,7 +68,7 @@
 					<!-- ======= LOGO ========-->
 					<a class="navbar-brand scrollto" href="#home">
 						<!--<h2 style="font-weight:bold;color:#fff;">DATASEC-<span class="primary">IT</span></h3>-->
-						<img class="site-logo" src="assets/images/logo.png" alt="logo"/>
+						<img class="site-logo" src="assets/images/logo.png" style="width:132px;height:45px;" alt="logo"/>
 					</a>
 					
 				</div>
@@ -276,7 +276,7 @@
 		<!-- ==============================================
 		COUNTERS
 		=============================================== -->
-		<section class="parallax-bg light-typo padding-top-bottom overlay-color" data-parallax="scroll" data-image-src="assets/images/header.jpg">
+		<!--<section class="parallax-bg light-typo padding-top-bottom overlay-color" data-parallax="scroll" data-image-src="assets/images/header.jpg">
 			<div class="container">
 				<div class="row counters">
 					<div class="col-md-3 col-sm-6 text-center">
@@ -301,7 +301,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section>-->
 		
 		<!-- ==============================================
 		ABOUT
@@ -316,7 +316,7 @@
 				</p>
 				<div class="row">
 					<div class="col-md-6">						
-						<img class="img-responsive" src="assets/images/iPhone.png" alt=""/>
+						<img class="img-responsive" src="assets/images/ciberseguridad.jpg" alt=""/>
 					</div>
 					<div class="col-md-5">
 						<div class="media">
@@ -424,11 +424,12 @@
 				<p class="section-description">Somos un pequeño equipo con grandes habilidades.</p>
 						
 				<div class="row">
-					<div class="col-md-3 col-sm-6 team-member">
+					<div class="col-md-4 col-sm-6 col-md-offset-4 team-member">
+						<!--
 						<div class="member-thumb">						
 							<img class="img-responsive img-center" src="assets/images/member-1.jpg" alt="" />
 						</div>
-						
+						-->
 						<ul class="member-socials">
 							<li><a href="mailto:mail@example.com"><i class="fa fa-envelope fa-fw"></i></a></li>
 							<li><a href="#link"><i class="fa fa-twitter fa-fw"></i></a></li>
@@ -443,7 +444,7 @@
 						</div>
 						
 					</div>
-					
+					<!--
 					<div class="col-md-3 col-sm-6 team-member">
 					
 						<div class="member-thumb">
@@ -509,7 +510,7 @@
 						</div>
 						
 					</div>
-					
+					-->
 				</div>
 			
 			</div>
@@ -519,6 +520,7 @@
 		<!-- ==============================================
 		TESTIMONIALS
 		=============================================== -->
+		<!--
 		<section id="testimonials" class="bg-video light-typo padding-top-bottom">
 		
 			<div class="container text-center">
@@ -535,7 +537,7 @@
 			</div>
 		
 		</section>
-	
+		-->
 		<!-- ==============================================
 		PRICES
 		=============================================== -->
@@ -553,12 +555,12 @@
 						<div class="col-sm-4 text-center">
 						
 							<div class="item">
-							
 								<h2>Basic</h2>
+								<!--
 								<p>Single License</p>
 								<p>One Website</p>
 								<p>Basic Support</p>
-								
+								-->
 								<a class="btn" href="#">Order Now</a>
 					
 							</div><!-- End Pricing Item -->
@@ -570,11 +572,11 @@
 							<div class="item featured">
 							
 								<h2>Pro</h2>
-								
+								<!--
 								<p>Multiple Licenses</p>
 								<p>Unlimited Websites</p>
 								<p>Great Support</p>
-								
+								-->
 								<a class="btn" href="#">Order Now</a>
 					
 							</div><!-- End Pricing Item -->
@@ -586,11 +588,11 @@
 							<div class="item">
 							
 								<h2>Premium</h2>
-								
+								<!--
 								<p>Extended License</p>
 								<p>Unlimited Websites</p>
 								<p>Premium Support</p>
-								
+								-->
 								<a class="btn" href="#">Order Now</a>
 					
 							</div><!-- End Pricing Item -->
@@ -623,7 +625,7 @@
 						
 							
 							<h2><span class="icon"><i class="fa fa-phone fa-fw"></i></span> Telefono</h2>
-							<p>+01 234-56789<br/>+01 234-56789</p>
+							<p>+571 3123839662</p>
 						
 						</div>
 					
@@ -631,14 +633,14 @@
 						
 							
 							<h2><span class="icon"><i class="fa fa-envelope-o fa-fw"></i></span> Correo</h2>
-							<p><a href="mailto:mail@example.com" >mail@example.com</a></p>
+							<p><a href="mailto:mail@example.com" >info@datasecit.com</a></p>
 							
 						</div>
 						
 						<div class="contact-item">
 						
 							<h2><span class="icon"><i class="fa fa-map-marker fa-fw"></i></span> Ubicacion</h2>
-							<p>250 W Broadway <br/>NY , 10013</p>
+							<p>Bogota</p>
 							
 						</div>
 					
